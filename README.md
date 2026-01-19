@@ -1,43 +1,5 @@
 # 👋 Raghava Chayanulu Gannavarapu
 
-### 🔭 I’m currently working on
-- Scaling my NLP job-matching engine using transformers
-- Medical imaging models (U-Net segmentation)
-- Building my personal AI portfolio website
-- ML microservice architecture with Docker + FastAPI
-- Experimenting with LLM fine-tuning & embedding models
-
-### 🌱 I’m currently learning
-- Advanced LLM fine-tuning & prompt engineering
-- Cloud-native ML deployment (Azure / AWS)
-- Generative AI for multi-modal applications
-
-### 👯 I’m looking to collaborate on
-- Open-source NLP and GenAI projects
-- AI-driven analytics dashboards
-- Innovative ML/Deep Learning pipelines
-
-### 🤔 I’m looking for help with
-- Optimizing large-scale ML model deployment
-- Efficient vector search for embeddings
-- Best practices in MLOps for production systems
-
-### 💬 Ask me about
-- NLP, LLMs, Generative AI
-- End-to-end ML pipeline design
-- Data visualization & analytics
-- VLSI & hardware acceleration for ML
-
-### 📫 How to reach me
-- LinkedIn: [https://www.linkedin.com/in/gannvarapu-raghava-chayanulu/](https://www.linkedin.com/in/gannvarapu-raghava-chayanulu/)
-- Email: grchayanulu@gmail.com
-
-### 😄 Pronouns
-He/Him
-
-### ⚡ Fun fact
-I enjoy blending ML, AI, and VLSI to build real-world solutions that are both innovative and efficient!
-
 ---
 
 ## 👨‍🎓 About Me
@@ -111,6 +73,45 @@ End-to-end AI platform automating resume parsing, job relevance scoring, and can
 
 ---
 
+## 🌱 I’m currently learning
+- Advanced LLM fine-tuning & prompt engineering
+- Cloud-native ML deployment (Azure / AWS)
+- Generative AI for multi-modal applications
+  
+---
+
+## 👯 I’m looking to collaborate on
+- Open-source NLP and GenAI projects
+- AI-driven analytics dashboards
+- Innovative ML/Deep Learning pipelines
+
+---
+
+## 🤔 I’m looking for help with
+- Optimizing large-scale ML model deployment
+- Efficient vector search for embeddings
+- Best practices in MLOps for production systems
+
+---
+
+## 💬 Ask me about
+- NLP, LLMs, Generative AI
+- End-to-end ML pipeline design
+- Data visualization & analytics
+- VLSI & hardware acceleration for ML
+
+---
+
+## 😄 Pronouns
+He/Him
+
+---
+
+## ⚡ Fun fact
+I enjoy blending ML, AI, and VLSI to build real-world solutions that are both innovative and efficient!
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -139,5 +140,5 @@ End-to-end AI platform automating resume parsing, job relevance scoring, and can
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/gannvarapu-raghava-chayanulu/](https://www.linkedin.com/in/gannvarapu-raghava-chayanulu/)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/raghava-c/](https://www.linkedin.com/in/raghava-c/)  
 - 📧 Email: grchayanulu@gmail.com
