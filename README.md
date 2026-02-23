@@ -94,24 +94,6 @@ End-to-end AI platform automating resume parsing, job relevance scoring, and can
 
 ---
 
-## 💬 Ask me about
-- NLP, LLMs, Generative AI
-- End-to-end ML pipeline design
-- Data visualization & analytics
-- VLSI & hardware acceleration for ML
-
----
-
-## 😄 Pronouns
-He/Him
-
----
-
-## ⚡ Fun fact
-I enjoy blending ML, AI, and VLSI to build real-world solutions that are both innovative and efficient!
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
