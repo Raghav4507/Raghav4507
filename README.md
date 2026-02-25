@@ -8,7 +8,7 @@ I am an aspiring AI/ML Engineer with a strong foundation in Machine Learning, NL
 
 I have hands-on experience with PyTorch, TensorFlow, Hugging Face Transformers, Flask, FastAPI, SQL, Docker, and modern analytics tools. I am passionate about transforming raw data into scalable, real-world AI solutions that create meaningful impact.
 
-I am currently pursuing my Master’s in Artificial Intelligence at the University of Michigan–Dearborn and actively working on projects in LLMs, GenAI, computer vision, and advanced NLP systems.
+I am a Master’s graduate student in Artificial Intelligence from the University of Michigan–Dearborn, and I am actively working on projects in LLMs, GenAI, computer vision, and advanced NLP systems.
 
 ---
 
